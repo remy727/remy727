@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have been working as a senior Ruby on Rails developer for 6 years since 2016.
+I have been working as a senior Ruby on Rails developer for 6 years since 2015.
 
 - ➤ I always write clean and well-documented code.
 - ➤ I value teamwork and collaboration.
