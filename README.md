@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a seasoned Ruby on Rails developer with 7 years of experience since 2015.
-I am an ambitious, motivated, and passionate developer.
-I understand the customer's needs and develop my own creative solutions for the customers.
-I am committed to continuously learning.
-I am not afraid to solve a challenging problem and I would like to solve problems every day.
+- I am a seasoned Ruby on Rails developer with 7 years of experience since 2015.
+- I am an ambitious, motivated, and passionate developer.
+- I understand the customer's needs and develop my own creative solutions for the customers.
+- I am committed to continuously learning.
+- I am not afraid to solve a challenging problem and I would like to solve problems every day.
