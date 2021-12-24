@@ -15,20 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have been working as a senior Ruby on Rails developer for 6 years since 2015.
-
-- ➤ I always write clean and well-documented code.
-- ➤ I value teamwork and collaboration.
-- ➤ I am a better thinker, innovator, and problem solver.
-
-
-My Expertise:
-- 👉 Ruby 2+
-- 👉 Ruby on Rails 3+
-- 👉 PostgreSQL, MySQL
-- 👉 MongoDB, Redis, CouchDB
-- 👉 RSpec/TDD
-- 👉 Solidus, Spree, Sinatra
-- 👉 RabbitMQ
-- 👉 Sidekiq, Redis
-- 👉 Jets
+I am a seasoned Ruby on Rails developer with 7 years of experience since 2015.
+I am an ambitious, motivated, and passionate developer.
+I understand the customer's needs and develop my own creative solutions for the customers.
+I am committed to continuously learning.
+I am not afraid to solve a challenging problem and I would like to solve problems every day.
