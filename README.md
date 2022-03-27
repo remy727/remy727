@@ -61,6 +61,16 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
     <summary>Telemetry</summary>
       <ul>
         <li>
+          <a href="https://github.com/microsoft">
+            <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" /> Microsoft Clarity
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/sentry">
+            <img src="https://avatars.githubusercontent.com/u/1396951?s=200&v=4" /> Sentry
+          </a>
+        </li>
+        <li>
           <a href="https://github.com/datadog">
             <img src="https://avatars.githubusercontent.com/u/365230?s=20&v=4" /> DataDog
           </a>
@@ -176,6 +186,16 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
   <details>
     <summary>Telemetry</summary>
       <ul>
+        <li>
+          <a href="https://github.com/fullstorydev">
+            <img src="https://avatars.githubusercontent.com/u/33756472?s=200&v=4" /> FullStory
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/sentry">
+            <img src="https://avatars.githubusercontent.com/u/1396951?s=200&v=4" /> Sentry
+          </a>
+        </li>
         <li>
           <a href="https://github.com/newrelic">
             <img src="https://avatars.githubusercontent.com/u/31739?s=20&v=4" /> NewRelic
