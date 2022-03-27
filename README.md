@@ -61,7 +61,7 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
     <summary>Telemetry</summary>
       <ul>
         <li>
-          <a href="https://github.com/microsoft">
+          <a href="https://github.com/microsoft/clarity">
             <img src="https://avatars.githubusercontent.com/u/6154722?s=20&v=4" /> Microsoft Clarity
           </a>
         </li>
@@ -125,7 +125,7 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
           </a>
         </li>
         <li>
-          <a href="https://github.com/nodejs">
+          <a href="https://github.com/facebook/react">
             <img src="https://avatars.githubusercontent.com/u/6412038?s=20&v=4" /> ReactJS
           </a>
         </li>
