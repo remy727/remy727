@@ -75,6 +75,11 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
             <img src="https://avatars.githubusercontent.com/u/365230?s=20&v=4" /> DataDog
           </a>
         </li>
+        <li>
+          <a href="https://github.com/logdna">
+            <img src="https://avatars.githubusercontent.com/u/17461937?s=20&v=4" /> LogDNA
+          </a>
+        </li>
       </ul>
   </details>
   
@@ -105,7 +110,7 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
   </details>
 </details>
 
-### 2020-2021: [SponsorPulse](https://sponsorpulseimi.com/) - Ruby on Rails Engineer
+### 2020-2021: [SponsorPulse](https://sponsorpulseimi.com) - Ruby on Rails Engineer
 
 <details>
   <summary>Summary</summary>
@@ -197,8 +202,8 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
           </a>
         </li>
         <li>
-          <a href="https://github.com/newrelic">
-            <img src="https://avatars.githubusercontent.com/u/31739?s=20&v=4" /> NewRelic
+          <a href="https://github.com/logdna">
+            <img src="https://avatars.githubusercontent.com/u/17461937?s=20&v=4" /> LogDNA
           </a>
         </li>
       </ul>
@@ -241,9 +246,8 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
 
 <details>
   <summary>Summary</summary>
-   I started my web development career as a freelancer on Upwork. I built several applications from small scale to large scale in various industries including eCommerce, healthcare,  travel.
+  I started my web development career as a freelancer on Upwork. I built several applications from small scale to large scale in various industries including eCommerce, healthcare,  travel.
 
-  
   <details>
     <summary>Tech Stack</summary>
       <ul>
@@ -270,6 +274,21 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
         <li>
           <a href="https://github.com/nodejs">
             <img src="https://avatars.githubusercontent.com/u/9950313?s=20&v=4" /> NodeJS
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/facebook/react">
+            <img src="https://avatars.githubusercontent.com/u/6412038?s=20&v=4" /> ReactJS
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/vuejs">
+            <img src="https://avatars.githubusercontent.com/u/6128107?s=20&v=4" /> VueJS
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/angular">
+            <img src="https://avatars.githubusercontent.com/u/139426?s=20&v=4" /> AngularJS
           </a>
         </li>
         <li>
@@ -382,5 +401,4 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
         </li>
       </ul>
   </details>
-  
 </details>
