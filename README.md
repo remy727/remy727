@@ -218,6 +218,11 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
           </a>
         </li>
         <li>
+          <a href="https://github.com/amplitude">
+            <img src="https://avatars.githubusercontent.com/u/2291562?s=20&v=4" /> Amplitude Analytics
+          </a>
+        </li>
+        <li>
           <a href="https://github.com/segmentio">
             <img src="https://avatars.githubusercontent.com/u/819518?s=20&v=4" /> Segment
           </a>
