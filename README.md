@@ -82,23 +82,8 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
     <summary>Integrations</summary>
       <ul>
         <li>
-          <a href="https://github.com/twilio">
-            <img src="https://avatars.githubusercontent.com/u/109142?s=20&v=4" /> Twilio
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/salesforce">
-            <img src="https://avatars.githubusercontent.com/u/453694?s=20&v=4" /> Salesforce
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/stripe">
-            <img src="https://avatars.githubusercontent.com/u/856813?s=20&v=4" /> Stripe
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/zillow">
-            <img src="https://avatars.githubusercontent.com/u/476233?s=20&v=4" /> Zillow
+          <a href="https://github.com/chargebee">
+            <img src="https://avatars.githubusercontent.com/u/539100?s=20&v=4" /> ChargeBee
           </a>
         </li>
         <li>
@@ -112,8 +97,8 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
           </a>
         </li>
         <li>
-          <a href="https://github.com/hubspot">
-            <img src="https://avatars.githubusercontent.com/u/326419?s=20&v=4" /> HubSpot
+          <a href="https://github.com/googleanalytics">
+            <img src="https://avatars.githubusercontent.com/u/4327788?s=20&v=4" /> Google Analytics
           </a>
         </li>
       </ul>
@@ -208,6 +193,21 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
     <summary>Integrations</summary>
       <ul>
         <li>
+          <a href="https://github.com/googleanalytics">
+            <img src="https://avatars.githubusercontent.com/u/4327788?s=20&v=4" /> Google Analytics
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/segmentio">
+            <img src="https://avatars.githubusercontent.com/u/819518?s=20&v=4" /> Segment
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/hubspot">
+            <img src="https://avatars.githubusercontent.com/u/326419?s=20&v=4" /> HubSpot
+          </a>
+        </li>
+        <li>
           <a href="https://github.com/twilio">
             <img src="https://avatars.githubusercontent.com/u/109142?s=20&v=4" /> Twilio
           </a>
@@ -215,11 +215,6 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
         <li>
           <a href="https://github.com/stripe">
             <img src="https://avatars.githubusercontent.com/u/856813?s=20&v=4" /> Stripe
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/hubspot">
-            <img src="https://avatars.githubusercontent.com/u/326419?s=20&v=4" /> HubSpot
           </a>
         </li>
       </ul>
