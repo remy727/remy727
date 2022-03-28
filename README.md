@@ -407,3 +407,5 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
       </ul>
   </details>
 </details>
+
+![](https://hit.yhype.me/github/profile?user_id=69775411)
