@@ -408,5 +408,4 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
   </details>
 </details>
 
-## Statics
-![](https://hit.yhype.me/github/profile?user_id=69775411)
+![Profile views](https://gpvc.arturio.dev/remy727)
