@@ -2,7 +2,7 @@
 
 I'm a passionate Ruby on Rails developer with 6 years of experience.
 
-## Where I've Been
+## Experience
 
 ### 2021: [Kabo](https://www.kabo.co) - Senior Ruby on Rails Engineer
 
@@ -247,7 +247,7 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
   
 </details>
 
-### 2015-2020: [Upwork](https://upwork.com)
+### 2015-2020: [Upwork](https://upwork.com) - Ruby on Rails Engineer
 
 <details>
   <summary>Summary</summary>
