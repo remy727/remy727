@@ -408,4 +408,5 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
   </details>
 </details>
 
+## Statistics
 ![Profile views](https://gpvc.arturio.dev/remy727)
