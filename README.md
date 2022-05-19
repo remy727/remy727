@@ -4,7 +4,7 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
 
 ## Experience
 
-### Sep 2020 - Present: [SponsorPulse](https://sponsorpulseimi.com) - Ruby on Rails Engineer
+### Sep 2020 - Present: [SponsorPulse](https://sponsorpulseimi.com) - Senior Ruby on Rails Engineer
 
 <details>
   <summary>Summary</summary>
