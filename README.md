@@ -107,12 +107,22 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
         <img src="https://avatars.githubusercontent.com/u/6154722?s=20&v=4" /> Microsoft Clarity
       </a>
     </li>
+    <li>
+      <a href="https://github.com/newrelic">
+        <img src="https://avatars.githubusercontent.com/u/31739?s=20&v=4" /> NewRelic
+      </a>
+    </li>
   </ul>
 </details>
 
 <details>
   <summary>Integrations</summary>
   <ul>
+    <li>
+      <a href="https://github.com/stripe">
+        <img src="https://avatars.githubusercontent.com/u/856813?s=20&v=4" /> Stripe
+      </a>
+    </li>
     <li>
       <a href="https://github.com/chargebee">
         <img src="https://avatars.githubusercontent.com/u/539100?s=20&v=4" /> ChargeBee
@@ -131,6 +141,11 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
     <li>
       <a href="https://github.com/googleanalytics">
         <img src="https://avatars.githubusercontent.com/u/4327788?s=20&v=4" /> Google Analytics
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/HubSpot">
+        <img src="https://avatars.githubusercontent.com/u/326419?s=20&v=4" /> HubSpot
       </a>
     </li>
   </ul>
