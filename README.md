@@ -21,6 +21,21 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
       </a>
     </li>
     <li>
+      <a href="https://github.com/hotwired/">
+        <img src="https://avatars.githubusercontent.com/u/1253363?s=20&v=4" /> Ember.js
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/facebook/react">
+        <img src="https://avatars.githubusercontent.com/u/6412038?s=20&v=4" /> ReactJS
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/vuejs">
+        <img src="https://avatars.githubusercontent.com/u/6128107?s=20&v=4" /> VueJS
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/postgres">
         <img src="https://avatars.githubusercontent.com/u/177543?s=20&v=4" /> PostgreSQL
       </a>
