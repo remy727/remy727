@@ -78,13 +78,13 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
   <summary>Telemetry</summary>
   <ul>
     <li>
-      <a href="https://github.com/microsoft/clarity">
-        <img src="https://avatars.githubusercontent.com/u/6154722?s=20&v=4" /> Microsoft Clarity
+      <a href="https://github.com/sentry">
+        <img src="https://avatars.githubusercontent.com/u/1396951?s=20&v=4" /> Sentry
       </a>
     </li>
     <li>
-      <a href="https://github.com/sentry">
-        <img src="https://avatars.githubusercontent.com/u/1396951?s=20&v=4" /> Sentry
+      <a href="https://github.com/rollbar">
+        <img src="https://avatars.githubusercontent.com/u/3219584?s=20&v=4" /> Rollbar
       </a>
     </li>
     <li>
@@ -95,6 +95,16 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
     <li>
       <a href="https://github.com/logdna">
         <img src="https://avatars.githubusercontent.com/u/17461937?s=20&v=4" /> LogDNA
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/fullstorydev">
+        <img src="https://avatars.githubusercontent.com/u/33756472?s=20&v=4" /> FullStory
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/microsoft/clarity">
+        <img src="https://avatars.githubusercontent.com/u/6154722?s=20&v=4" /> Microsoft Clarity
       </a>
     </li>
   </ul>
