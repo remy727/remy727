@@ -16,7 +16,7 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
       </a>
     </li>
     <li>
-      <a href="https://github.com/hotwired/">
+      <a href="https://github.com/emberjs/">
         <img src="https://avatars.githubusercontent.com/u/75388917?s=20&v=4" /> Hotwire
       </a>
     </li>
@@ -51,6 +51,11 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
 <details>
   <summary>Platform</summary>
   <ul>
+    <li>
+      <a href="https://github.com/docker">
+        <img src="https://avatars.githubusercontent.com/u/5429470?s=20&v=4" /> Docker
+      </a>
+    </li>
     <li>
       <a href="https://github.com/kubernetes">
         <img src="https://avatars.githubusercontent.com/u/13629408?s=20&v=4" /> Kubernetes
