@@ -155,6 +155,3 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
 ![Profile views](https://gpvc.arturio.dev/remy727)
 
 ### LeetCode Stats
-<a href="https://github.com/remy727">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=remy727&theme=dark" width="400"/>
-</a>
