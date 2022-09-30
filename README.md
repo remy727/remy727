@@ -1,3 +1,5 @@
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=remy727&theme=dark)
+
 ## Hi there, I'm Remy Wang! 👋
 
 I'm a passionate Ruby on Rails developer with 6 years of experience.
@@ -151,14 +153,5 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
   </ul>
 </details>
 
-<ul>
-  <li>
-    ![Remy's GitHub stats](https://github-readme-stats.vercel.app/api?username=remy727&count_private=true&show_icons=true&theme=dark)
-  </li>
-  <li>
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=remy727&theme=dark)
-  </li>
-  <li>
-    ![Profile views](https://gpvc.arturio.dev/remy727)
-  </li>
-</ul>
+![Remy's GitHub stats](https://github-readme-stats.vercel.app/api?username=remy727&count_private=true&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=remy727&theme=dark)
