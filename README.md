@@ -1,9 +1,9 @@
+## Statistics
+![Profile views](https://gpvc.arturio.dev/remy727)
+
 ## Hi there, I'm Remy Wang! 👋
 
 I'm a passionate Ruby on Rails developer with 6 years of experience.
-
-### Statistics
-![Profile views](https://gpvc.arturio.dev/remy727)
 
 <details open>
   <summary>Tech Stack</summary>
