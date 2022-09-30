@@ -153,5 +153,5 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
 
 ![Remy's GitHub stats](https://github-readme-stats.vercel.app/api?username=remy727&count_private=true&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=remy727&theme=dark)
-<br />
+<br>
 ![Profile views](https://gpvc.arturio.dev/remy727)
