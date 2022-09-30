@@ -4,7 +4,7 @@
 
 I'm a passionate Ruby on Rails developer with 6 years of experience.
 
-<details open>
+<details>
   <summary>Tech Stack</summary>
   <ul>
     <li>
@@ -50,7 +50,7 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
   </ul>
 </details>
 
-<details open>
+<details>
   <summary>Platform</summary>
   <ul>
     <li>
@@ -76,7 +76,7 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
   </ul>
 </details>
 
-<details open>
+<details>
   <summary>Telemetry</summary>
   <ul>
     <li>
@@ -117,7 +117,7 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
   </ul>
 </details>
 
-<details open>
+<details>
   <summary>Integrations</summary>
   <ul>
     <li>
