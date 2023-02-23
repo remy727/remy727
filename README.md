@@ -16,12 +16,12 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
       </a>
     </li>
     <li>
-      <a href="https://github.com/emberjs/">
-        <img src="https://avatars.githubusercontent.com/u/75388917?s=20&v=4" /> Hotwire
+      <a href="https://github.com/hotwired/">
+        <img src="https://avatars.githubusercontent.com/u/75388917?s=20&v=4" /> Hotwire/Stimulus
       </a>
     </li>
     <li>
-      <a href="https://github.com/hotwired/">
+      <a href="https://github.com/emberjs/">
         <img src="https://avatars.githubusercontent.com/u/1253363?s=20&v=4" /> Ember.js
       </a>
     </li>
@@ -49,7 +49,7 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
 </details>
 
 <details>
-  <summary>Platform</summary>
+  <summary>DevOps</summary>
   <ul>
     <li>
       <a href="https://github.com/docker">
@@ -83,8 +83,23 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
       </a>
     </li>
     <li>
+      <a href="https://github.com/appsignal">
+        <img src="https://avatars.githubusercontent.com/u/3984134?s=20&v=4" /> AppSignal
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/rollbar">
         <img src="https://avatars.githubusercontent.com/u/3219584?s=20&v=4" /> Rollbar
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/honeybadger-io">
+        <img src="https://avatars.githubusercontent.com/u/1898541?s=20&v=4" /> Honeybadger
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/newrelic">
+        <img src="https://avatars.githubusercontent.com/u/31739?s=20&v=4" /> NewRelic
       </a>
     </li>
     <li>
@@ -105,11 +120,6 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
     <li>
       <a href="https://github.com/microsoft/clarity">
         <img src="https://avatars.githubusercontent.com/u/6154722?s=20&v=4" /> Microsoft Clarity
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/newrelic">
-        <img src="https://avatars.githubusercontent.com/u/31739?s=20&v=4" /> NewRelic
       </a>
     </li>
   </ul>
@@ -153,5 +163,4 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
 
 ![Profile views](https://gpvc.arturio.dev/remy727)
 
-![Remy's GitHub stats](https://github-readme-stats-pink-theta.vercel.app/api?username=remy727&count_private=true&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=remy727&theme=dark)
