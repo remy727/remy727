@@ -16,6 +16,11 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
       </a>
     </li>
     <li>
+      <a href="https://github.com/python">
+        <img src="https://avatars.githubusercontent.com/u/1525981?s=20&v=4" /> Python
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/hotwired/">
         <img src="https://avatars.githubusercontent.com/u/75388917?s=20&v=4" /> Hotwire/Stimulus
       </a>
