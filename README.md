@@ -6,7 +6,8 @@ I'm Remy Wang who:
 - Quickly communicates complex technical requirements to non-technical stakeholders. Enthusiastic team player ready to contribute to company success.
 - Thrives in environments that constantly embrace new technologies.
 
-**I am familiar with**:
+### Tech Stacks
+
 <details>
   <summary>Back End</summary>
   <ul>
