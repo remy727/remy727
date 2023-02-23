@@ -21,8 +21,8 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
       </a>
     </li>
     <li>
-      <a href="https://github.com/python">
-        <img src="https://avatars.githubusercontent.com/u/1525981?s=20&v=4" /> Python
+      <a href="https://github.com/nodejs">
+        <img src="https://avatars.githubusercontent.com/u/9950313?s=20&v=4" /> Node.js
       </a>
     </li>
   </ul>
