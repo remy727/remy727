@@ -41,6 +41,11 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
       </a>
     </li>
     <li>
+      <a href="https://github.com/mysql">
+        <img src="https://avatars.githubusercontent.com/u/2452804?s=20&v=4" /> MySQL
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/redis">
         <img src="https://avatars.githubusercontent.com/u/1529926?s=20&v=4" /> Redis
       </a>
