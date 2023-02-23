@@ -1,6 +1,10 @@
-## Hi there, I'm Remy Wang! 👋
+## Hi there! 👋
 
-I'm a passionate Ruby on Rails developer with 6 years of experience.
+I'm Remy Wang who:
+- Creative Senior Software Engineer offering 8 years of experience in E-commerce, Fintech, Healthcare, and Real Estate industries.
+- Committed to providing solutions positioned at the industry's forefront.
+- Quickly communicates complex technical requirements to non-technical stakeholders. Enthusiastic team player ready to contribute to company success.
+- Thrives in environments that constantly embrace new technologies.
 
 <details>
   <summary>Back End</summary>
