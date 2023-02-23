@@ -81,6 +81,27 @@ I'm a passionate Ruby on Rails developer with 6 years of experience.
 </details>
 
 <details>
+  <summary>Background Job</summary>
+  <ul>
+    <li>
+      <a href="https://github.com/sidekiq">
+        <img src="https://avatars.githubusercontent.com/u/124714131?s=20&v=4" /> Sidekiq
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/bensheldon/good_job">
+        GoodJob
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/karafka/">
+        <img src="https://avatars.githubusercontent.com/u/13313336?s=20&v=4" /> Karafka
+      </a>
+    </li>
+  </ul>
+</details>
+
+<details>
   <summary>DevOps</summary>
   <ul>
     <li>
