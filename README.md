@@ -9,7 +9,7 @@ I'm Remy Wang who:
 ### My Tech Stacks
 
 <details>
-  <summary>Back End</summary>
+  <summary>Backend</summary>
   <ul>
     <li>
       <a href="https://github.com/ruby">
@@ -35,7 +35,7 @@ I'm Remy Wang who:
 </details>
 
 <details>
-  <summary>Front End</summary>
+  <summary>Frontend</summary>
   <ul>
     <li>
       <a href="https://github.com/hotwired/">
