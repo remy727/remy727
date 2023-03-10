@@ -122,7 +122,7 @@ I'm Remy Wang who:
     </li>
     <li>
       <a href="https://github.com/terraform">
-        <img src="./images/Terraform.svg"> Terraform
+        <img src="./images/Terraform.svg" /> Terraform
       </a>
     </li>
     <li>
