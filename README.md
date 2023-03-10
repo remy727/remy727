@@ -121,8 +121,8 @@ I'm Remy Wang who:
       </a>
     </li>
     <li>
-      <a href="https://github.com/terraform">
-        <img src="./images/Terraform.svg" /> Terraform
+      <a href="https://github.com/hashicorp/terraform">
+        Terraform
       </a>
     </li>
     <li>
