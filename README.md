@@ -111,16 +111,6 @@ I'm Remy Wang who:
   <summary>DevOps</summary>
   <ul>
     <li>
-      <a href="https://github.com/docker">
-        <img src="https://avatars.githubusercontent.com/u/5429470?s=20&v=4" /> Docker
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/kubernetes">
-        <img src="https://avatars.githubusercontent.com/u/13629408?s=20&v=4" /> Kubernetes
-      </a>
-    </li>
-    <li>
       <a href="https://github.com/heroku">
         <img src="https://avatars.githubusercontent.com/u/23211?s=20&v=4" /> Heroku
       </a>
@@ -128,6 +118,22 @@ I'm Remy Wang who:
     <li>
       <a href="https://github.com/aws">
         <img src="https://avatars.githubusercontent.com/u/2232217?s=20&v=4" /> AWS
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/terraform">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M21.2 16.55l19.1 11.03v22.06L21.2 38.61V16.55zm21.19 11.03v22.06L61.5 38.61V16.55L42.39 27.58zM0 4.24V26.3l19.1 11.03V15.27L0 4.24zm21.2 58.85l19.1 11.03V52.06L21.2 41.03v22.06z" fill="#7B42BC"></path>
+        Terraform
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/docker">
+        <img src="https://avatars.githubusercontent.com/u/5429470?s=20&v=4" /> Docker
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/kubernetes">
+        <img src="https://avatars.githubusercontent.com/u/13629408?s=20&v=4" /> Kubernetes
       </a>
     </li>
   </ul>
