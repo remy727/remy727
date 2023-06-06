@@ -1,10 +1,12 @@
 ## Hi there! 👋
 
-I'm Remy Wang who:
-- Creative Senior Software Engineer offering 8 years of experience in E-commerce, Fintech, Healthcare, and Real Estate industries.
-- Committed to providing solutions positioned at the industry's forefront.
-- Quickly communicates complex technical requirements to non-technical stakeholders. Enthusiastic team player ready to contribute to company success.
-- Thrives in environments that constantly embrace new technologies.
+I am a creative and experienced Senior Software Engineer with 8 years of expertise in various industries, including E-commerce, Fintech, Healthcare, and Real Estate. I am committed to delivering cutting-edge solutions and staying at the forefront of the industry.
+
+My strong communication skills enable me to effectively convey complex technical requirements to non-technical stakeholders. I am an enthusiastic team player, always ready to contribute to the success of the company.
+
+I thrive in environments that embrace new technologies and constantly adapt to the ever-changing landscape of the software industry.
+
+Feel free to connect with me or explore my projects on GitHub.
 
 ### My Tech Stacks
 
