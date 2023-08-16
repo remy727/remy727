@@ -227,6 +227,6 @@ Feel free to connect with me or explore my projects on GitHub.
   </ul>
 </details>
 
-![Profile views](https://gpvc.arturio.dev/remy727)
+<!-- ![Profile views](https://gpvc.arturio.dev/remy727) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=remy727&theme=dark)
