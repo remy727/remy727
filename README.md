@@ -227,6 +227,21 @@ Feel free to connect with me or explore my projects on GitHub.
   </ul>
 </details>
 
+### Topics that interest me:
+- Ruby on Rails
+- React.js
+- Shopify
+- Hotwire
+- PostgreSQL
+- Sidekiq
+- Performance
+
+### Currently reading:
+- Any blogs that [Evil Martians](https://evilmartians.com/) has to say
+- Any blogs that [Thoughtbot](https://thoughtbot.com/) has to say
+- [Ruby Weekly](https://rubyweekly.com/)
+- [Short Ruby Newsletter](https://newsletter.shortruby.com/)
+
 <!-- ![Profile views](https://gpvc.arturio.dev/remy727) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=remy727&theme=dark)
