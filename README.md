@@ -1,6 +1,7 @@
 ## Hi! 👋
 
 My name is Remy Wang.
+
 I am a seasoned Ruby on Rails Engineer who has been using Ruby 2.2.10 and Rails since 5.0.1. I have a proven track record of building and launching successful products including 2 public Shopify Apps. I am always aware of the performance of the applications and how I can improve them.
 
 I enjoy contributing to open-source projects that I use:
@@ -245,6 +246,8 @@ Feel free to connect with me or explore my projects on GitHub.
 - Any blogs that [Thoughtbot](https://thoughtbot.com/) has to say
 - [Ruby Weekly](https://rubyweekly.com/)
 - [Short Ruby Newsletter](https://newsletter.shortruby.com/)
+- [AppSignal Ruby Blog](https://blog.appsignal.com/category/ruby.html)
+- [Honeybadger Ruby Blog](https://www.honeybadger.io/blog/tags/ruby/)
 
 <!-- ![Profile views](https://gpvc.arturio.dev/remy727) -->
 
