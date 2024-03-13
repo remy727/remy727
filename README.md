@@ -9,7 +9,7 @@ I enjoy contributing to open-source projects that I use:
 - [Sidekiq](https://github.com/sidekiq/sidekiq)
 - [shopify_app](https://github.com/Shopify/shopify_app)
 - [Shopify API Library for Ruby](https://github.com/Shopify/shopify-api-ruby)
-- [Shopify App Template - Ruby](github.com/Shopify/shopify-app-template-ruby)
+- [Shopify App Template - Ruby](https://github.com/Shopify/shopify-app-template-ruby)
 
 Feel free to connect with me or explore my projects on GitHub.
 
