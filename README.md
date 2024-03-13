@@ -4,15 +4,6 @@ My name is Remy Wang.
 
 I am a seasoned Ruby on Rails Engineer and Certified Shopify App developer. I have been using Ruby 2.2.10 and Rails since 5.0.1. I have a proven track record of building and launching successful products including 2 public Shopify Apps. I am always aware of the performance of the applications and how I can improve them.
 
-I enjoy contributing to open-source projects that I use:
-- [Rails](https://github.com/rails/rails)
-- [Sidekiq](https://github.com/sidekiq/sidekiq)
-- [shopify_app](https://github.com/Shopify/shopify_app)
-- [Shopify API Library for Ruby](https://github.com/Shopify/shopify-api-ruby)
-- [Shopify App Template - Ruby](https://github.com/Shopify/shopify-app-template-ruby)
-
-Feel free to connect with me or explore my projects on GitHub.
-
 ### My Tech Stacks
 
 <details>
@@ -232,6 +223,14 @@ Feel free to connect with me or explore my projects on GitHub.
   </ul>
 </details>
 
+### Contribution
+I enjoy contributing to open-source projects that I use:
+- [Rails](https://github.com/rails/rails)
+- [Sidekiq](https://github.com/sidekiq/sidekiq)
+- [shopify_app](https://github.com/Shopify/shopify_app)
+- [Shopify API Library for Ruby](https://github.com/Shopify/shopify-api-ruby)
+- [Shopify App Template - Ruby](https://github.com/Shopify/shopify-app-template-ruby)
+
 ### Topics that interest me:
 - Shopify
 - Ruby on Rails
@@ -252,3 +251,5 @@ Feel free to connect with me or explore my projects on GitHub.
 <!-- ![Profile views](https://gpvc.arturio.dev/remy727) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=remy727&theme=dark)
+
+Feel free to connect with me or explore my projects on GitHub.
