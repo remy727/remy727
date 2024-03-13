@@ -236,7 +236,6 @@ Feel free to connect with me or explore my projects on GitHub.
 - Shopify
 - Ruby on Rails
 - React.js
-- Shopify
 - Hotwire
 - PostgreSQL
 - Sidekiq
