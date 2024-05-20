@@ -240,11 +240,12 @@ I enjoy contributing to open-source projects that I use:
 - Sidekiq
 - Performance
 
-### Currently reading:
+### 📚 Currently reading:
 - Any blogs that [Evil Martians](https://evilmartians.com/) has to say
 - Any blogs that [Thoughtbot](https://thoughtbot.com/) has to say
 - [Ruby Weekly](https://rubyweekly.com/)
 - [Short Ruby Newsletter](https://newsletter.shortruby.com/)
+- [Hotwire Weekly](https://hotwireweekly.com/archive)
 - [AppSignal Ruby Blog](https://blog.appsignal.com/category/ruby.html)
 - [Honeybadger Ruby Blog](https://www.honeybadger.io/blog/tags/ruby/)
 
@@ -252,4 +253,4 @@ I enjoy contributing to open-source projects that I use:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=remy727&theme=dark)
 
-Feel free to connect with me or explore my projects on GitHub.
+Please feel free to contact me or explore my projects on GitHub.
