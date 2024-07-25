@@ -230,6 +230,7 @@ I enjoy contributing to open-source projects that I use:
 - [shopify_app](https://github.com/Shopify/shopify_app)
 - [Shopify API Library for Ruby](https://github.com/Shopify/shopify-api-ruby)
 - [Shopify App Template - Ruby](https://github.com/Shopify/shopify-app-template-ruby)
+- [Polaris ViewComponents](https://github.com/baoagency/polaris_view_components)
 
 ### Topics that interest me:
 - Shopify
