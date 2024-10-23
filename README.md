@@ -2,7 +2,7 @@
 
 My name is Remy Wang.
 
-I am a seasoned Ruby on Rails Engineer and Certified Shopify App developer. I have been using Ruby 2.2.10 and Rails since 5.0.1. I have a proven track record of building and launching successful products including 2 public Shopify Apps. I am always aware of the performance of the applications and how I can improve them.
+I am a seasoned Ruby on Rails Engineer and Certified Shopify App developer. I have been using Ruby 2.2.10 and Rails since 5.0.1. I have a proven track record of building and launching successful products including 20 public Shopify Apps. I am always aware of the performance of the applications and how I can improve them.
 
 ### My Tech Stacks
 
