@@ -20,13 +20,13 @@ I am a seasoned Ruby on Rails Engineer and Certified Shopify App developer. I ha
       </a>
     </li>
     <li>
-      <a href="https://github.com/python">
-        <img src="https://avatars.githubusercontent.com/u/1525981?s=20&v=4" /> Python
+      <a href="https://github.com/nodejs">
+        <img src="https://avatars.githubusercontent.com/u/9950313?s=20&v=4" /> Node.js
       </a>
     </li>
     <li>
-      <a href="https://github.com/nodejs">
-        <img src="https://avatars.githubusercontent.com/u/9950313?s=20&v=4" /> Node.js
+      <a href="https://github.com/python">
+        <img src="https://avatars.githubusercontent.com/u/1525981?s=20&v=4" /> Python
       </a>
     </li>
   </ul>
