@@ -242,7 +242,7 @@ I enjoy contributing to open-source projects that I use:
 - Sidekiq
 - Performance
 
-### 📚 Currently reading:
+### Blogs I am currently reading:
 - Any blogs that [Evil Martians](https://evilmartians.com/) has to say
 - Any blogs that [Thoughtbot](https://thoughtbot.com/) has to say
 - [Ruby Weekly](https://rubyweekly.com/)
@@ -250,6 +250,11 @@ I enjoy contributing to open-source projects that I use:
 - [Hotwire Weekly](https://hotwireweekly.com/archive)
 - [AppSignal Ruby Blog](https://blog.appsignal.com/category/ruby.html)
 - [Honeybadger Ruby Blog](https://www.honeybadger.io/blog/tags/ruby/)
+
+### Books I am currently reading:
+- [ ] Domain-Driven Design ⌛
+- [ ] Designing Data-Intensive Applications
+- [ ] Release It!
 
 <!-- ![Profile views](https://gpvc.arturio.dev/remy727) -->
 
