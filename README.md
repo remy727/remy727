@@ -251,10 +251,10 @@ I enjoy contributing to open-source projects that I use:
 - [AppSignal Ruby Blog](https://blog.appsignal.com/category/ruby.html)
 - [Honeybadger Ruby Blog](https://www.honeybadger.io/blog/tags/ruby/)
 
-### Books I am currently reading:
-- [ ] Domain-Driven Design ⌛
-- [ ] Designing Data-Intensive Applications
-- [ ] Release It!
+### 📚 Books I am currently reading:
+- [ ] Domain-Driven Design 📖
+- [ ] Designing Data-Intensive Applications 📘
+- [ ] Release It! 📘
 
 <!-- ![Profile views](https://gpvc.arturio.dev/remy727) -->
 
