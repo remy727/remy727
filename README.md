@@ -250,6 +250,7 @@ I enjoy contributing to open-source projects that I use:
 - [Hotwire Weekly](https://hotwireweekly.com/archive)
 - [AppSignal Ruby Blog](https://blog.appsignal.com/category/ruby.html)
 - [Honeybadger Ruby Blog](https://www.honeybadger.io/blog/tags/ruby/)
+- [Liquid Weekly](https://liquidweekly.com)
 
 ### 📚 Books I am currently reading:
 - [ ] Domain-Driven Design 📖
