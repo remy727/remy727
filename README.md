@@ -259,6 +259,6 @@ I enjoy contributing to open-source projects that I use:
 
 <!-- ![Profile views](https://gpvc.arturio.dev/remy727) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=remy727&theme=dark)
+<a href="http://www.github.com/remy727"><img src="https://github-readme-stats.vercel.app/api?username=remy727&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="remy727's GitHub stats"/></a>
 
 Please feel free to contact me or explore my projects on GitHub.
