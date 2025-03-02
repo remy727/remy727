@@ -256,6 +256,7 @@ I enjoy contributing to open-source projects that I use:
 - [ ] Domain-Driven Design 📖
 - [ ] Designing Data-Intensive Applications 📘
 - [ ] Release It! 📘
+- [ ] Growing Object-Oriented Software, Guided by Tests 📘
 
 ### My Profiles:
 
