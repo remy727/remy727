@@ -6,83 +6,15 @@ I am a seasoned Ruby on Rails Engineer and Certified Shopify App developer. I ha
 
 ### My Tech Stacks
 
-<details>
-  <summary>Backend</summary>
-  <ul>
-    <li>
-      <a href="https://github.com/ruby">
-        <img src="https://avatars.githubusercontent.com/u/210414?s=20&v=4" /> Ruby
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/rails">
-        <img src="https://avatars.githubusercontent.com/u/4223?s=20&v=4" /> Rails
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/nodejs">
-        <img src="https://avatars.githubusercontent.com/u/9950313?s=20&v=4" /> Node.js
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/python">
-        <img src="https://avatars.githubusercontent.com/u/1525981?s=20&v=4" /> Python
-      </a>
-    </li>
-  </ul>
-</details>
+[![BackEnd](https://skillicons.dev/icons?i=ruby,rails,nodejs,py)](https://skillicons.dev)
 
-<details>
-  <summary>Frontend</summary>
-  <ul>
-    <li>
-      <a href="https://github.com/hotwired/">
-        <img src="https://avatars.githubusercontent.com/u/75388917?s=20&v=4" /> Hotwire/Stimulus
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/emberjs/">
-        <img src="https://avatars.githubusercontent.com/u/1253363?s=20&v=4" /> Ember.js
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/facebook/react">
-        <img src="https://avatars.githubusercontent.com/u/6412038?s=20&v=4" /> ReactJS
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/vuejs">
-        <img src="https://avatars.githubusercontent.com/u/6128107?s=20&v=4" /> VueJS
-      </a>
-    </li>
-  </ul>
-</details>
+[![FrontEnd](https://skillicons.dev/icons?i=ember,react,vue)](https://skillicons.dev)
 
-<details>
-  <summary>Database</summary>
-  <ul>
-    <li>
-      <a href="https://github.com/postgres">
-        <img src="https://avatars.githubusercontent.com/u/177543?s=20&v=4" /> PostgreSQL
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/mysql">
-        <img src="https://avatars.githubusercontent.com/u/2452804?s=20&v=4" /> MySQL
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/mongodb">
-        <img src="https://avatars.githubusercontent.com/u/45120?s=20&v=4" /> MongoDB
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/redis">
-        <img src="https://avatars.githubusercontent.com/u/1529926?s=20&v=4" /> Redis
-      </a>
-    </li>
-  </ul>
-</details>
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,heroku,docker,kubernetes)](https://skillicons.dev)
+
+[![Telemetry](https://skillicons.dev/icons?i=sentry)](https://skillicons.dev)
 
 <details>
   <summary>Background Job</summary>
@@ -106,44 +38,8 @@ I am a seasoned Ruby on Rails Engineer and Certified Shopify App developer. I ha
 </details>
 
 <details>
-  <summary>DevOps</summary>
-  <ul>
-    <li>
-      <a href="https://github.com/heroku">
-        <img src="https://avatars.githubusercontent.com/u/23211?s=20&v=4" /> Heroku
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/aws">
-        <img src="https://avatars.githubusercontent.com/u/2232217?s=20&v=4" /> AWS
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/hashicorp/terraform">
-        Terraform
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/docker">
-        <img src="https://avatars.githubusercontent.com/u/5429470?s=20&v=4" /> Docker
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/kubernetes">
-        <img src="https://avatars.githubusercontent.com/u/13629408?s=20&v=4" /> Kubernetes
-      </a>
-    </li>
-  </ul>
-</details>
-
-<details>
   <summary>Telemetry</summary>
   <ul>
-    <li>
-      <a href="https://github.com/sentry">
-        <img src="https://avatars.githubusercontent.com/u/1396951?s=20&v=4" /> Sentry
-      </a>
-    </li>
     <li>
       <a href="https://github.com/appsignal">
         <img src="https://avatars.githubusercontent.com/u/3984134?s=20&v=4" /> AppSignal
