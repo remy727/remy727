@@ -159,6 +159,6 @@ I enjoy contributing to open-source projects that I use:
 - [Shopify Developer Community Forums](https://community.shopify.dev/u/remy727/summary)
 - [Old Shopify Community](https://community.shopify.com/c/user/viewprofilepage/user-id/747813)
 
-<a href="http://www.github.com/remy727"><img src="https://github-readme-stats.vercel.app/api?username=remy727&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="remy727's GitHub stats"/></a>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=remy727&theme=dark)](https://git.io/streak-stats)
 
 Please feel free to contact me or explore my projects on GitHub.
